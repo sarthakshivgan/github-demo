@@ -11,7 +11,7 @@ def subtract(x,y):
 
 # Multiply implementation
 def multiply(x,y):
-    pass
+    return x*y
 
 # Divide implementation
 def divide(x,y):
