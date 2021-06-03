@@ -4,6 +4,7 @@ def add(x,y):
 
 # Sub implementation
 def subtract(x,y):
+<<<<<<< HEAD
     if y>x:
         return "error"
     else:
