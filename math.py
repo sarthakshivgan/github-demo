@@ -4,7 +4,10 @@ def add(x,y):
 
 # Sub implementation
 def subtract(x,y):
-    pass
+    if y>x:
+        return "error"
+    else:
+        return x-y          #main implementation    
 
 # Multiply implementation
 def multiply(x,y):
